@@ -1,0 +1,8 @@
+#Modules
+node_modules
+android
+app
+.expo
+expo
+.expo-shared
+expo-shared
